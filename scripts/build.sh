@@ -44,6 +44,10 @@ echo "ok - source file ready, preparing for build/compile by rpmbuild"
 # rpmdev-setuptree
 mkdir -p $WORKSPACE/rpmbuild/{BUILD,BUILDROOT,RPMS,SPECS,SOURCES,SRPMS}/
 cp "$llvm_spec" $WORKSPACE/rpmbuild/SPECS/llvm.spec
+if [ -d $WORKSPACE/rpmbuild/SOURCES/llvm ] ; then
+  echo "ok - detected existing SOURCES/llvm from previous rpmbuild, deleting it"
+  rm -rf "$WORKSPACE/rpmbuild/SOURCES/llvm"
+fi
 cp -r $WORKSPACE/llvm $WORKSPACE/rpmbuild/SOURCES/llvm
 #cp $WORKSPACE/patches/* $WORKSPACE/rpmbuild/SOURCES/
 # Explicitly define IMPALA_HOME here for build purpose
