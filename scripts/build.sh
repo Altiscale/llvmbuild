@@ -52,8 +52,10 @@ if [ -d $WORKSPACE/rpmbuild/SOURCES/llvm ] ; then
 fi
 
 cp $WORKSPACE/llvm.tar.gz $WORKSPACE/rpmbuild/SOURCES/
+stat $WORKSPACE/rpmbuild/SOURCES/llvm.tar.gz
 #cp $WORKSPACE/patches/* $WORKSPACE/rpmbuild/SOURCES/
 # Explicitly define IMPALA_HOME here for build purpose
+
 export LLVM_HOME=$WORKSPACE/rpmbuild/BUILD/llvm
 export QA_RPATHS=$[ 0x0001|0x0002|0x0010|0x0008 ]
 
