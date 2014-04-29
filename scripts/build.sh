@@ -69,6 +69,7 @@ rpmbuild -vv -ba $WORKSPACE/rpmbuild/SPECS/llvm.spec \
 
 if [ $? -ne "0" ] ; then
   echo "fail - RPM build failed"
+  exit -9
 fi
   
 echo "ok - build Completed successfully!"
