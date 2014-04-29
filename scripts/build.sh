@@ -33,11 +33,11 @@ cd $WORKSPACE
 
 # TBD: we should sanatize the LLVM source folder, so if we re-build it again, it will always be a clean build.
 if [ -d "$WORKSPACE/llvm" ] ; then
-  echo "ok - deleting folder $WORKSPACE/llvm"
+  # echo "ok - deleting folder $WORKSPACE/llvm"
   stat "$WORKSPACE/llvm"
   # rm -rf "$WORKSPACE/llvm"
 fi
-tar -czf $WORKSPACE/llvm.tar.gz $WORKSPACE/llvm
+tar -czf llvm.tar.gz llvm
 
 # Download LLVM from SVN (don't download form tar ball, a bit risky)
 echo "ok - source file ready, preparing for build/compile by rpmbuild"
