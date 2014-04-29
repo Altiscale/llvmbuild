@@ -9,7 +9,7 @@ License: University of Illinois/NCSA Open Source License
 Vendor: None (open source)
 Group: Development/Compilers
 URL: http://llvm..org/
-Source: %{_sourcedir}/%{service_name}
+Source: %{_sourcedir}/%{service_name}.tar.gz
 BuildRoot: %{_tmppath}/%{name}-root
 Requires: /sbin/ldconfig
 BuildRequires: gcc >= 3.4
@@ -25,15 +25,20 @@ includes mirror sets of programming tools as well as libraries with equivalent
 functionality.
 
 %prep
-# copying files into BUILD/impala/ e.g. BUILD/impala/* 
 echo "ok - copying files from %{_sourcedir} to folder  %{_builddir}/%{service_name}"
-cp -r %{_sourcedir}/%{service_name} %{_builddir}/
+echo "ok - if '%setup' is specified, rpmbuild will extract the source for you, otherwise, manual copy is mandatory"
+if [ -d %{_builddir}/%{service_name} ] ; then
+  echo "ok - deleting previous copy of LLVM in %{_builddir}/%{service_name}"
+  rm -rf %{_builddir}/%{service_name}
+fi
 
-#%setup -q -n LLVM-3.3
+%setup -q -n %{service_name}
 
 %build
 pushd `pwd`
 cd %{_builddir}/%{service_name}/
+env | sort
+echo "libdir = %{_libdir}"
 ./configure \
 --prefix=%{_prefix} \
 --bindir=%{_bindir} \
@@ -42,6 +47,7 @@ cd %{_builddir}/%{service_name}/
 --libdir=%{_libdir} \
 --enable-optimized \
 --enable-assertions \
+--enable-docs \
 --with-pic
 # make tools-only
 make -j4 REQUIRES_RTTI=1
@@ -50,7 +56,9 @@ popd
 
 %install
 rm -rf %{buildroot}
-cd %{_builddir}/%{service_name}/
+echo "installing bindir = %{_bindir}"
+echo "installing libdir = %{_libdir}"
+echo "installing includedir = %{_includedir}"
 make install DESTDIR=%{buildroot}
 
 %clean
@@ -62,14 +70,18 @@ rm -rf %{buildroot}
 
 %files
 %defattr(-, root, root)
-%doc CREDITS.TXT LICENSE.TXT README.txt docs/*.{html,css,gif,jpg} docs/CommandGuide
+%doc CREDITS.TXT LICENSE.TXT README.txt docs/*.{html,css,png} docs/CommandGuide
 %{_bindir}/*
-%{_libdir}/*.o
-%{_libdir}/*.a
 %{_libdir}/*.so
-%{_includedir}/llvm
+%{_libdir}/*.a
+%{_libdir}/clang/
+%{_includedir}/*
+/usr/local/docs/llvm/
+/usr/local/share/man/man1/clang.1
 
 %changelog
+* Wed Apr 09 2014 Andrew Lee
+- Adjust spec for Impala, added --with-pic and --enable-docs (enforced), remove gif and jpg from doc, and *.o installation that caused the build to fail
 * Fri Aug 04 2006 Reid Spencer
 - Updates for release 1.8
 * Fri Apr 07 2006 Reid Spencer

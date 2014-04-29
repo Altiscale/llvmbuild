@@ -31,11 +31,13 @@ env | sort
 pushd `pwd`
 cd $WORKSPACE
 
+# TBD: we should sanatize the LLVM source folder, so if we re-build it again, it will always be a clean build.
 if [ -d "$WORKSPACE/llvm" ] ; then
   echo "ok - deleting folder $WORKSPACE/llvm"
   stat "$WORKSPACE/llvm"
   # rm -rf "$WORKSPACE/llvm"
 fi
+tar -czf $WORKSPACE/llvm.tar.gz $WORKSPACE/llvm
 
 # Download LLVM from SVN (don't download form tar ball, a bit risky)
 echo "ok - source file ready, preparing for build/compile by rpmbuild"
@@ -48,15 +50,22 @@ if [ -d $WORKSPACE/rpmbuild/SOURCES/llvm ] ; then
   echo "ok - detected existing SOURCES/llvm from previous rpmbuild, deleting it"
   rm -rf "$WORKSPACE/rpmbuild/SOURCES/llvm"
 fi
-cp -r $WORKSPACE/llvm $WORKSPACE/rpmbuild/SOURCES/llvm
+
+cp $WORKSPACE/llvm.tar.gz $WORKSPACE/rpmbuild/SOURCES/
 #cp $WORKSPACE/patches/* $WORKSPACE/rpmbuild/SOURCES/
 # Explicitly define IMPALA_HOME here for build purpose
 export LLVM_HOME=$WORKSPACE/rpmbuild/BUILD/llvm
-export QA_RPATHS=$[ 0x0001|0x0010|0x0008 ]
+export QA_RPATHS=$[ 0x0001|0x0002|0x0010|0x0008 ]
 
 echo "QA_RPATHS=$QA_RPATHS"
 
-rpmbuild -vv -ba $WORKSPACE/rpmbuild/SPECS/llvm.spec --define "_topdir $WORKSPACE/rpmbuild" --buildroot $WORKSPACE/rpmbuild/BUILDROOT/
+# Override _libdir to /usr/lib, otherwise, it will install under /usr/lib64/
+# _prefix should point to /usr/local
+rpmbuild -vv -ba $WORKSPACE/rpmbuild/SPECS/llvm.spec \
+  --define "_topdir $WORKSPACE/rpmbuild" \
+  --define "_libdir /usr/local/lib" \
+  --define "_prefix /usr/local" \
+  --buildroot $WORKSPACE/rpmbuild/BUILDROOT/
 
 if [ $? -ne "0" ] ; then
   echo "fail - RPM build failed"
