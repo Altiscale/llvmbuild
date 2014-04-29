@@ -31,6 +31,8 @@ if [ "x${LLVM_VERSION}" = "x" ] ; then
   export LLVM_VERSION=3.3
 fi
 
+BUILD_TIME=$(date +%Y%m%d%H%M)
+export BUILD_TIME
 
 
 

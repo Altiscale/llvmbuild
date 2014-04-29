@@ -1,9 +1,10 @@
 %define major_ver %(echo ${LLVM_VERSION})
 %define service_name llvm
+%define build_release %(echo ${BUILD_TIME})
 
 Name: %{service_name}
 Version: %{major_ver}
-Release: 0
+Release: %{build_release}%{?dist}
 Summary: LLVM (An Optimizing Compiler Infrastructure)
 License: University of Illinois/NCSA Open Source License
 Vendor: None (open source)
