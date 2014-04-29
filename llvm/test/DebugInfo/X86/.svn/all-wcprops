@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/lit.local.cfg
+END
+empty-and-one-elem-array.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/empty-and-one-elem-array.ll
+END
+pr9951.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/pr9951.ll
+END
+empty-array.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/empty-array.ll
+END
+DW_AT_byte_size.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/DW_AT_byte_size.ll
+END
+pr13303.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/pr13303.ll
+END
+line-info.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/line-info.ll
+END
+instcombine-instrinsics.ll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/instcombine-instrinsics.ll
+END
+misched-dbg-value.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/misched-dbg-value.ll
+END
+DW_AT_location-reference.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/DW_AT_location-reference.ll
+END
+earlydup-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/earlydup-crash.ll
+END
+op_deref.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/op_deref.ll
+END
+subrange-type.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/subrange-type.ll
+END
+subreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/subreg.ll
+END
+2010-08-10-DbgConstant.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/2010-08-10-DbgConstant.ll
+END
+block-capture.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/block-capture.ll
+END
+prologue-stack.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/prologue-stack.ll
+END
+struct-loc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/struct-loc.ll
+END
+aligned_stack_var.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/aligned_stack_var.ll
+END
+debug_frame.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/debug_frame.ll
+END
+union-template.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/union-template.ll
+END
+debug-info-block-captured-self.ll
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/debug-info-block-captured-self.ll
+END
+pr11300.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/pr11300.ll
+END
+elf-names.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/elf-names.ll
+END
+pointer-type-size.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/pointer-type-size.ll
+END
+rvalue-ref.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/rvalue-ref.ll
+END
+debug-info-static-member.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/debug-info-static-member.ll
+END
+2010-04-13-PubType.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/2010-04-13-PubType.ll
+END
+main-file-name.s
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/main-file-name.s
+END
+2011-09-26-GlobalVarContext.ll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/2011-09-26-GlobalVarContext.ll
+END
+2011-12-16-BadStructRef.ll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/2011-12-16-BadStructRef.ll
+END
+fission-cu.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/fission-cu.ll
+END
+stmt-list-multiple-compile-units.ll
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/stmt-list-multiple-compile-units.ll
+END
+nondefault-subrange-array.ll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/nondefault-subrange-array.ll
+END
+pr12831.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/pr12831.ll
+END
+eh_symbol.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/eh_symbol.ll
+END
+DW_AT_object_pointer.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/DW_AT_object_pointer.ll
+END
+concrete_out_of_line.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/concrete_out_of_line.ll
+END
+enum-fwd-decl.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/enum-fwd-decl.ll
+END
+linkage-name.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/linkage-name.ll
+END
+debug-info-blocks.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/debug-info-blocks.ll
+END
+DW_TAG_friend.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/DW_TAG_friend.ll
+END
+DW_AT_specification.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/DW_AT_specification.ll
+END
+objc-fwd-decl.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/objc-fwd-decl.ll
+END
+stmt-list.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/stmt-list.ll
+END
+stringpool.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/stringpool.ll
+END
+multiple-at-const-val.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/multiple-at-const-val.ll
+END
+vector.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/vector.ll
+END
+dbg-value-inlined-parameter.ll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/dbg-value-inlined-parameter.ll
+END
+low-pc-cu.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/low-pc-cu.ll
+END
+ending-run.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/ending-run.ll
+END
+enum-class.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/DebugInfo/X86/enum-class.ll
+END

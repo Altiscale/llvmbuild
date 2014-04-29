@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/MetaRenamer
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/MetaRenamer/lit.local.cfg
+END
+metarenamer.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/MetaRenamer/metarenamer.ll
+END

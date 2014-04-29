@@ -1,0 +1,497 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64
+END
+elf-extern.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/elf-extern.ll
+END
+inline-asm-modifiers.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/inline-asm-modifiers.ll
+END
+init-array.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/init-array.ll
+END
+breg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/breg.ll
+END
+inline-asm-constraints-badK2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/inline-asm-constraints-badK2.ll
+END
+bitfield.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/bitfield.ll
+END
+adrp-relocation.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/adrp-relocation.ll
+END
+ldst-unsignedimm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/ldst-unsignedimm.ll
+END
+local_vars.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/local_vars.ll
+END
+fcmp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/fcmp.ll
+END
+func-argpassing.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/func-argpassing.ll
+END
+zero-reg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/zero-reg.ll
+END
+floatdp_1source.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/floatdp_1source.ll
+END
+regress-wzr-allocatable.ll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/regress-wzr-allocatable.ll
+END
+regress-tail-livereg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/regress-tail-livereg.ll
+END
+fcvt-fixed.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/fcvt-fixed.ll
+END
+addsub.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/addsub.ll
+END
+tail-call.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/tail-call.ll
+END
+tls-dynamic-together.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/tls-dynamic-together.ll
+END
+tls-execs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/tls-execs.ll
+END
+logical_shifted_reg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/logical_shifted_reg.ll
+END
+fp128-folding.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/fp128-folding.ll
+END
+addsub_ext.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/addsub_ext.ll
+END
+large-frame.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/large-frame.ll
+END
+variadic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/variadic.ll
+END
+bitfield-insert.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/bitfield-insert.ll
+END
+regress-tblgen-chains.ll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/regress-tblgen-chains.ll
+END
+addsub-shifted.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/addsub-shifted.ll
+END
+func-calls.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/func-calls.ll
+END
+regress-f128csel-flags.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/regress-f128csel-flags.ll
+END
+floatdp_2source.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/floatdp_2source.ll
+END
+alloca.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/alloca.ll
+END
+inline-asm-constraints-badI.ll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/inline-asm-constraints-badI.ll
+END
+blockaddress.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/blockaddress.ll
+END
+setcc-takes-i32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/setcc-takes-i32.ll
+END
+pic-eh-stubs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/pic-eh-stubs.ll
+END
+fastcc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/fastcc.ll
+END
+ldst-unscaledimm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/ldst-unscaledimm.ll
+END
+tls-dynamics.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/tls-dynamics.ll
+END
+logical_shifted_reg.s
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/logical_shifted_reg.s
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/lit.local.cfg
+END
+extract.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/extract.ll
+END
+illegal-float-ops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/illegal-float-ops.ll
+END
+atomic-ops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/atomic-ops.ll
+END
+global-alignment.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/global-alignment.ll
+END
+directcond.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/directcond.ll
+END
+atomic-ops-not-barriers.ll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/atomic-ops-not-barriers.ll
+END
+bitfield-insert-0.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/bitfield-insert-0.ll
+END
+compare-branch.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/compare-branch.ll
+END
+regress-w29-reserved-with-fp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/regress-w29-reserved-with-fp.ll
+END
+dp2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/dp2.ll
+END
+got-abuse.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/got-abuse.ll
+END
+logical-imm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/logical-imm.ll
+END
+basic-pic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/basic-pic.ll
+END
+bool-loads.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/bool-loads.ll
+END
+sibling-call.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/sibling-call.ll
+END
+fp128.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/fp128.ll
+END
+inline-asm-constraints-badL.ll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/inline-asm-constraints-badL.ll
+END
+flags-multiuse.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/flags-multiuse.ll
+END
+cond-sel.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/cond-sel.ll
+END
+fpimm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/fpimm.ll
+END
+i128-align.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/i128-align.ll
+END
+tst-br.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/tst-br.ll
+END
+fastcc-reserved.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/fastcc-reserved.ll
+END
+callee-save.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/callee-save.ll
+END
+dp1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/dp1.ll
+END
+dp-3source.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/dp-3source.ll
+END
+adc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/adc.ll
+END
+ldst-regoffset.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/ldst-regoffset.ll
+END
+fp-dp3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/fp-dp3.ll
+END
+extern-weak.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/extern-weak.ll
+END
+fcvt-int.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/fcvt-int.ll
+END
+analyze-branch.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/analyze-branch.ll
+END
+movw-consts.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/movw-consts.ll
+END
+inline-asm-constraints-badK.ll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/inline-asm-constraints-badK.ll
+END
+jump-table.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/jump-table.ll
+END
+sincos-expansion.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/sincos-expansion.ll
+END
+inline-asm-constraints.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/inline-asm-constraints.ll
+END
+regress-bitcast-formals.ll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/regress-bitcast-formals.ll
+END
+code-model-large-abs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/code-model-large-abs.ll
+END
+fp-cond-sel.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/fp-cond-sel.ll
+END
+literal_pools.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/CodeGen/AArch64/literal_pools.ll
+END

@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/lit.local.cfg
+END
+retain-block-side-effects.ll
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/retain-block-side-effects.ll
+END
+retain-block.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/retain-block.ll
+END
+pr12270.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/pr12270.ll
+END
+rle-s2l.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/rle-s2l.ll
+END
+retain-not-declared.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/retain-not-declared.ll
+END
+basic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/basic.ll
+END
+retain-block-escape-analysis.ll
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/retain-block-escape-analysis.ll
+END
+invoke.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/invoke.ll
+END
+intrinsic-use.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/intrinsic-use.ll
+END
+path-overflow.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/path-overflow.ll
+END
+move-and-form-retain-autorelease.ll
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/move-and-form-retain-autorelease.ll
+END
+escape.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/escape.ll
+END
+weak-contract.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/weak-contract.ll
+END
+retain-block-alloca.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/retain-block-alloca.ll
+END
+contract-storestrong-ivar.ll
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/contract-storestrong-ivar.ll
+END
+ensure-that-exception-unwind-path-is-visited.ll
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/ensure-that-exception-unwind-path-is-visited.ll
+END
+apelim.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/apelim.ll
+END
+weak-copies.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/weak-copies.ll
+END
+contract-testcases.ll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/contract-testcases.ll
+END
+no-objc-arc-exceptions.ll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/no-objc-arc-exceptions.ll
+END
+move-and-merge-autorelease.ll
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/move-and-merge-autorelease.ll
+END
+contract.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/contract.ll
+END
+split-backedge.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/split-backedge.ll
+END
+expand.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/expand.ll
+END
+weak-dce.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/weak-dce.ll
+END
+nested.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/nested.ll
+END
+pointer-types.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/pointer-types.ll
+END
+empty-block.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/empty-block.ll
+END
+retain-block-load.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/retain-block-load.ll
+END
+weak.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/weak.ll
+END
+rv.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/rv.ll
+END
+cfg-hazards.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/cfg-hazards.ll
+END
+post-inlining.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/post-inlining.ll
+END
+gvn.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/gvn.ll
+END
+contract-marker.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/contract-marker.ll
+END
+intrinsic-use-isolated.ll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/intrinsic-use-isolated.ll
+END
+tail-call-invariant-enforcement.ll
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/tail-call-invariant-enforcement.ll
+END
+arc-annotations.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/arc-annotations.ll
+END
+contract-storestrong.ll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/ObjCARC/contract-storestrong.ll
+END
