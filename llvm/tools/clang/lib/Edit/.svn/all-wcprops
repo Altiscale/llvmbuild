@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Edit
+END
+EditedSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Edit/EditedSource.cpp
+END
+RewriteObjCFoundationAPI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Edit/RewriteObjCFoundationAPI.cpp
+END
+Commit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Edit/Commit.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Edit/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Edit/Makefile
+END

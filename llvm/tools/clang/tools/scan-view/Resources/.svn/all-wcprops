@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/tools/scan-view/Resources
+END
+bugcatcher.ico
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/tools/scan-view/Resources/bugcatcher.ico
+END
+FileRadar.scpt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/tools/scan-view/Resources/FileRadar.scpt
+END
+GetRadarVersion.scpt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/tools/scan-view/Resources/GetRadarVersion.scpt
+END

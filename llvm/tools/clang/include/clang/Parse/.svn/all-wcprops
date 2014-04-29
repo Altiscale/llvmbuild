@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Parse
+END
+Parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Parse/Parser.h
+END
+ParseDiagnostic.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Parse/ParseDiagnostic.h
+END
+ParseAST.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Parse/ParseAST.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Parse/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Parse/Makefile
+END

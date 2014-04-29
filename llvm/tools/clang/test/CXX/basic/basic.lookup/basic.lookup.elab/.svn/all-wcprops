@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/basic/basic.lookup/basic.lookup.elab
+END
+p2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/basic/basic.lookup/basic.lookup.elab/p2.cpp
+END
+templateid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/basic/basic.lookup/basic.lookup.elab/templateid.cpp
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Modules/Inputs/DependsOnModule.framework/PrivateHeaders
+END
+DependsOnModulePrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Modules/Inputs/DependsOnModule.framework/PrivateHeaders/DependsOnModulePrivate.h
+END

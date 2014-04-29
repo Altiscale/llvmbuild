@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.decls/temp.class/temp.static
+END
+p1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.decls/temp.class/temp.static/p1.cpp
+END
+p1-inst.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.decls/temp.class/temp.static/p1-inst.cpp
+END

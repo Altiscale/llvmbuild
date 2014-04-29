@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/Inputs
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/Inputs/lit.local.cfg
+END
+rewrite-includes4.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/Inputs/rewrite-includes4.h
+END
+rewrite-includes5.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/Inputs/rewrite-includes5.h
+END
+rewrite-includes6.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/Inputs/rewrite-includes6.h
+END
+rewrite-includes7.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/Inputs/rewrite-includes7.h
+END
+rewrite-includes8.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/Inputs/rewrite-includes8.h
+END
+test.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/Inputs/test.h
+END
+test2.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/Inputs/test2.h
+END
+test3.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/Inputs/test3.h
+END
+rewrite-includes1.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/Inputs/rewrite-includes1.h
+END
+rewrite-includes2.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/Inputs/rewrite-includes2.h
+END
+rewrite-includes3.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/Inputs/rewrite-includes3.h
+END

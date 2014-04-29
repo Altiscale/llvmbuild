@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate
+END
+Transforms.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/Transforms.cpp
+END
+Transforms.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/Transforms.h
+END
+TransProperties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/TransProperties.cpp
+END
+Internals.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/Internals.h
+END
+TransBlockObjCVariable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/TransBlockObjCVariable.cpp
+END
+ARCMT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/ARCMT.cpp
+END
+TransUnbridgedCasts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/TransUnbridgedCasts.cpp
+END
+TransAutoreleasePool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/TransAutoreleasePool.cpp
+END
+FileRemapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/FileRemapper.cpp
+END
+PlistReporter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/PlistReporter.cpp
+END
+ObjCMT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/ObjCMT.cpp
+END
+TransZeroOutPropsInDealloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/TransZeroOutPropsInDealloc.cpp
+END
+TransGCAttrs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/TransGCAttrs.cpp
+END
+TransRetainReleaseDealloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/TransRetainReleaseDealloc.cpp
+END
+TransGCCalls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/TransGCCalls.cpp
+END
+TransAPIUses.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/TransAPIUses.cpp
+END
+TransARCAssign.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/TransARCAssign.cpp
+END
+TransEmptyStatementsAndDealloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/TransEmptyStatementsAndDealloc.cpp
+END
+ARCMTActions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/ARCMTActions.cpp
+END
+TransUnusedInitDelegate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/TransUnusedInitDelegate.cpp
+END
+TransProtectedScope.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/TransProtectedScope.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/CMakeLists.txt
+END
+TransformActions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/ARCMigrate/TransformActions.cpp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang-c
+END
+CXCompilationDatabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang-c/CXCompilationDatabase.h
+END
+CXString.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang-c/CXString.h
+END
+Platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang-c/Platform.h
+END
+Index.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang-c/Index.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang-c/Makefile
+END

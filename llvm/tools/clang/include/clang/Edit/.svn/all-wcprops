@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Edit
+END
+EditsReceiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Edit/EditsReceiver.h
+END
+EditedSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Edit/EditedSource.h
+END
+FileOffset.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Edit/FileOffset.h
+END
+Rewriters.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Edit/Rewriters.h
+END
+Commit.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Edit/Commit.h
+END

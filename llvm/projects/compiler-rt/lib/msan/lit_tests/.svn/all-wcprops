@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183505/compiler-rt/tags/RELEASE_33/final/lib/msan/lit_tests
+END
+c-strdup.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183505/compiler-rt/tags/RELEASE_33/final/lib/msan/lit_tests/c-strdup.c
+END
+heap-origin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183505/compiler-rt/tags/RELEASE_33/final/lib/msan/lit_tests/heap-origin.cc
+END
+lit.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183505/compiler-rt/tags/RELEASE_33/final/lib/msan/lit_tests/lit.cfg
+END
+readdir64.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183505/compiler-rt/tags/RELEASE_33/final/lib/msan/lit_tests/readdir64.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183505/compiler-rt/tags/RELEASE_33/final/lib/msan/lit_tests/CMakeLists.txt
+END
+lit.site.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183505/compiler-rt/tags/RELEASE_33/final/lib/msan/lit_tests/lit.site.cfg.in
+END
+no_sanitize_memory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/183505/compiler-rt/tags/RELEASE_33/final/lib/msan/lit_tests/no_sanitize_memory.cc
+END
+no_sanitize_memory_prop.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/183505/compiler-rt/tags/RELEASE_33/final/lib/msan/lit_tests/no_sanitize_memory_prop.cc
+END
+stack-origin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183505/compiler-rt/tags/RELEASE_33/final/lib/msan/lit_tests/stack-origin.cc
+END

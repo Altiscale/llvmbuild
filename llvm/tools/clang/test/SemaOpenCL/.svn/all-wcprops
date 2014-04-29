@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL
+END
+cond.cl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/cond.cl
+END
+vec_compare.cl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/vec_compare.cl
+END
+sampler_t.cl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/sampler_t.cl
+END
+unsupported.cl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/unsupported.cl
+END
+extension-fp64.cl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/extension-fp64.cl
+END
+storageclass.cl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/storageclass.cl
+END
+invalid-logical-ops-1.1.cl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/invalid-logical-ops-1.1.cl
+END
+invalid-logical-ops-1.2.cl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/invalid-logical-ops-1.2.cl
+END
+vector_conv_invalid.cl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/vector_conv_invalid.cl
+END
+invalid-kernel-attrs.cl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/invalid-kernel-attrs.cl
+END
+event_t_overload.cl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/event_t_overload.cl
+END
+shifts.cl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/shifts.cl
+END
+address-spaces.cl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/address-spaces.cl
+END
+init.cl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/init.cl
+END
+invalid-kernel.cl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/invalid-kernel.cl
+END
+event_t.cl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/event_t.cl
+END
+warn-missing-prototypes.cl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/warn-missing-prototypes.cl
+END
+endian-attr.cl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/endian-attr.cl
+END
+vector_literals_invalid.cl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/vector_literals_invalid.cl
+END
+vector_literals_const.cl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/vector_literals_const.cl
+END
+vec_step.cl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/vec_step.cl
+END
+half.cl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/half.cl
+END
+sampler_t_overload.cl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/SemaOpenCL/sampler_t_overload.cl
+END

@@ -1,0 +1,40 @@
+10
+
+dir
+205696
+http://llvm.org/svn/llvm-project/cfe/tags/RELEASE_33/final/test/CXX/dcl.dcl/dcl.attr
+http://llvm.org/svn/llvm-project
+
+
+
+2013-02-22T09:21:42.628509Z
+175880
+rsmith
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+dcl.attr.grammar
+dir
+
+dcl.attr.noreturn
+dir
+
+dcl.attr.depend
+dir
+
+dcl.align
+dir
+

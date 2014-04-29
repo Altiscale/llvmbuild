@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/PCH/Inputs/badpch-dir.h.gch
+END
+.keep
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/PCH/Inputs/badpch-dir.h.gch/.keep
+END

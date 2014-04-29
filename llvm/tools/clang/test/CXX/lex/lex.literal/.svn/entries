@@ -1,0 +1,52 @@
+10
+
+dir
+205696
+http://llvm.org/svn/llvm-project/cfe/tags/RELEASE_33/final/test/CXX/lex/lex.literal
+http://llvm.org/svn/llvm-project
+
+
+
+2012-11-28T07:29:00.038826Z
+168776
+rsmith
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+lex.icon
+dir
+
+lex.bool
+dir
+
+lex.ext
+dir
+
+lex.nullptr
+dir
+
+lex.ccon
+dir
+
+lex.literal.kinds
+dir
+
+lex.fcon
+dir
+
+lex.string
+dir
+

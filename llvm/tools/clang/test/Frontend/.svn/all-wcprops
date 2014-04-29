@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend
+END
+warning-options.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/warning-options.cpp
+END
+warning-mapping-3.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/warning-mapping-3.c
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/lit.local.cfg
+END
+preprocessed-output-macro-first-token.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/preprocessed-output-macro-first-token.c
+END
+warning-mapping-4.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/warning-mapping-4.c
+END
+warning-mapping-5.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/warning-mapping-5.c
+END
+undef.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/undef.c
+END
+rewrite-macros.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/rewrite-macros.c
+END
+output-failures.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/output-failures.c
+END
+ast-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/ast-main.c
+END
+Weverything.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/Weverything.c
+END
+dependency-gen-escaping.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/dependency-gen-escaping.c
+END
+diagnostics-option-names.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/diagnostics-option-names.c
+END
+cpp-output.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/cpp-output.c
+END
+stdin.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/stdin.c
+END
+Wno-everything.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/Wno-everything.c
+END
+dependency-gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/dependency-gen.c
+END
+print-header-includes.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/print-header-includes.c
+END
+rewrite-includes-invalid-hasinclude.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/rewrite-includes-invalid-hasinclude.c
+END
+rewrite-includes-modules.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/rewrite-includes-modules.c
+END
+verify.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/verify.c
+END
+dependency-generation-crash.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/dependency-generation-crash.c
+END
+system-header-prefix.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/system-header-prefix.c
+END
+iframework.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/iframework.c
+END
+darwin-version.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/darwin-version.c
+END
+ast-main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/ast-main.cpp
+END
+ir-support-codegen.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/ir-support-codegen.ll
+END
+ir-support-errors.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/ir-support-errors.ll
+END
+macros.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/macros.c
+END
+rewrite-includes.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/rewrite-includes.c
+END
+verify-directive.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/verify-directive.h
+END
+verify2.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/verify2.c
+END
+unknown-pragmas.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/unknown-pragmas.c
+END
+verify3.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/verify3.c
+END
+verify-fatal.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/verify-fatal.c
+END
+ast-codegen.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/ast-codegen.c
+END
+verify2.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/verify2.h
+END
+warning-mapping-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/warning-mapping-1.c
+END
+rewrite-includes-missing.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/rewrite-includes-missing.c
+END
+hexagon-target-basic.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/hexagon-target-basic.c
+END
+warning-mapping-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Frontend/warning-mapping-2.c
+END

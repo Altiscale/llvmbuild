@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Modules/Inputs/submodules
+END
+module.map
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Modules/Inputs/submodules/module.map
+END
+hash_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Modules/Inputs/submodules/hash_map.h
+END
+vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Modules/Inputs/submodules/vector.h
+END
+type_traits.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Modules/Inputs/submodules/type_traits.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Modules/Inputs/DependsOnModule.framework/Headers
+END
+other.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Modules/Inputs/DependsOnModule.framework/Headers/other.h
+END
+cxx_other.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Modules/Inputs/DependsOnModule.framework/Headers/cxx_other.h
+END
+DependsOnModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Modules/Inputs/DependsOnModule.framework/Headers/DependsOnModule.h
+END

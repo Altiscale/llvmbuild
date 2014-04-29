@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final
+END
+ModuleInfo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/ModuleInfo.txt
+END
+LICENSE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/LICENSE.TXT
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/INSTALL.txt
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/.gitignore
+END
+CODE_OWNERS.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/CODE_OWNERS.TXT
+END
+NOTES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/NOTES.txt
+END
+.arcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/.arcconfig
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/README.txt
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/Makefile
+END

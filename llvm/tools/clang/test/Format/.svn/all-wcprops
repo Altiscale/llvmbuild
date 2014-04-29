@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Format
+END
+ranges.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Format/ranges.cpp
+END
+basic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Format/basic.cpp
+END
+multiple-inputs-error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Format/multiple-inputs-error.cpp
+END
+diagnostic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Format/diagnostic.cpp
+END
+multiple-inputs-inplace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Format/multiple-inputs-inplace.cpp
+END
+multiple-inputs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Format/multiple-inputs.cpp
+END

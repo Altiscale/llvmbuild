@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/tools/clang-format
+END
+clang-format.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/tools/clang-format/clang-format.py
+END
+clang-format-bbedit.applescript
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/tools/clang-format/clang-format-bbedit.applescript
+END
+clang-format-diff.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/tools/clang-format/clang-format-diff.py
+END
+clang-format.el
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/tools/clang-format/clang-format.el
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/tools/clang-format/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/tools/clang-format/Makefile
+END
+ClangFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/tools/clang-format/ClangFormat.cpp
+END

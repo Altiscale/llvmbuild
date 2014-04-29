@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Serialization
+END
+ASTReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Serialization/ASTReader.h
+END
+GlobalModuleIndex.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Serialization/GlobalModuleIndex.h
+END
+ModuleManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Serialization/ModuleManager.h
+END
+ContinuousRangeMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Serialization/ContinuousRangeMap.h
+END
+SerializationDiagnostic.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Serialization/SerializationDiagnostic.h
+END
+ASTBitCodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Serialization/ASTBitCodes.h
+END
+ASTDeserializationListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Serialization/ASTDeserializationListener.h
+END
+ASTWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Serialization/ASTWriter.h
+END
+Module.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Serialization/Module.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Serialization/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Serialization/Makefile
+END

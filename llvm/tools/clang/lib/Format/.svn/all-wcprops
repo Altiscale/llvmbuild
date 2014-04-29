@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Format
+END
+BreakableToken.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Format/BreakableToken.h
+END
+UnwrappedLineParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Format/UnwrappedLineParser.h
+END
+TokenAnnotator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Format/TokenAnnotator.cpp
+END
+WhitespaceManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Format/WhitespaceManager.cpp
+END
+Format.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Format/Format.cpp
+END
+BreakableToken.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Format/BreakableToken.cpp
+END
+UnwrappedLineParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Format/UnwrappedLineParser.cpp
+END
+TokenAnnotator.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Format/TokenAnnotator.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Format/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Format/Makefile
+END
+WhitespaceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Format/WhitespaceManager.h
+END

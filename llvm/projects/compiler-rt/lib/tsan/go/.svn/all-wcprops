@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/183505/compiler-rt/tags/RELEASE_33/final/lib/tsan/go
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183505/compiler-rt/tags/RELEASE_33/final/lib/tsan/go/test.c
+END
+buildgo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183505/compiler-rt/tags/RELEASE_33/final/lib/tsan/go/buildgo.sh
+END
+tsan_go.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183505/compiler-rt/tags/RELEASE_33/final/lib/tsan/go/tsan_go.cc
+END

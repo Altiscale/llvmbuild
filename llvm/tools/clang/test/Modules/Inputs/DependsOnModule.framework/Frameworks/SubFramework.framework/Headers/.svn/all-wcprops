@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Modules/Inputs/DependsOnModule.framework/Frameworks/SubFramework.framework/Headers
+END
+Other.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Modules/Inputs/DependsOnModule.framework/Frameworks/SubFramework.framework/Headers/Other.h
+END
+SubFramework.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Modules/Inputs/DependsOnModule.framework/Frameworks/SubFramework.framework/Headers/SubFramework.h
+END

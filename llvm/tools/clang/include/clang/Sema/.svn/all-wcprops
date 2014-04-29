@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema
+END
+SemaDiagnostic.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/SemaDiagnostic.h
+END
+AttributeList.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/AttributeList.h
+END
+SemaConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/SemaConsumer.h
+END
+IdentifierResolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/IdentifierResolver.h
+END
+Lookup.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/Lookup.h
+END
+SemaFixItUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/SemaFixItUtils.h
+END
+DelayedDiagnostic.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/DelayedDiagnostic.h
+END
+CXXFieldCollector.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/CXXFieldCollector.h
+END
+Ownership.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/Ownership.h
+END
+CodeCompleteConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/CodeCompleteConsumer.h
+END
+SemaInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/SemaInternal.h
+END
+Sema.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/Sema.h
+END
+ScopeInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/ScopeInfo.h
+END
+Weak.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/Weak.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/CMakeLists.txt
+END
+Initialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/Initialization.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/Makefile
+END
+AnalysisBasedWarnings.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/AnalysisBasedWarnings.h
+END
+LocInfoType.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/LocInfoType.h
+END
+Designator.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/Designator.h
+END
+ExternalSemaSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/ExternalSemaSource.h
+END
+Scope.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/Scope.h
+END
+ObjCMethodList.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/ObjCMethodList.h
+END
+ParsedTemplate.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/ParsedTemplate.h
+END
+TemplateDeduction.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/TemplateDeduction.h
+END
+Overload.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/Overload.h
+END
+Template.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/Template.h
+END
+MultiplexExternalSemaSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/MultiplexExternalSemaSource.h
+END
+CodeCompleteOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/CodeCompleteOptions.h
+END
+DeclSpec.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/DeclSpec.h
+END
+TypoCorrection.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/TypoCorrection.h
+END
+PrettyDeclStackTrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Sema/PrettyDeclStackTrace.h
+END

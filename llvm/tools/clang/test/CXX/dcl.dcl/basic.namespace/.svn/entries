@@ -1,0 +1,40 @@
+10
+
+dir
+205696
+http://llvm.org/svn/llvm-project/cfe/tags/RELEASE_33/final/test/CXX/dcl.dcl/basic.namespace
+http://llvm.org/svn/llvm-project
+
+
+
+2013-03-20T01:53:00.182181Z
+177473
+rjmccall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+namespace.alias
+dir
+
+namespace.udecl
+dir
+
+namespace.def
+dir
+
+namespace.udir
+dir
+

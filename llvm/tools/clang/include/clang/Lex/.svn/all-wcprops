@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex
+END
+LiteralSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/LiteralSupport.h
+END
+HeaderSearchOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/HeaderSearchOptions.h
+END
+PTHLexer.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/PTHLexer.h
+END
+LexDiagnostic.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/LexDiagnostic.h
+END
+DirectoryLookup.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/DirectoryLookup.h
+END
+PPConditionalDirectiveRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/PPConditionalDirectiveRecord.h
+END
+PreprocessorOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/PreprocessorOptions.h
+END
+CodeCompletionHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/CodeCompletionHandler.h
+END
+Pragma.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/Pragma.h
+END
+ExternalPreprocessorSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/ExternalPreprocessorSource.h
+END
+ModuleLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/ModuleLoader.h
+END
+MacroInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/MacroInfo.h
+END
+HeaderSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/HeaderSearch.h
+END
+MacroArgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/MacroArgs.h
+END
+PPCallbacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/PPCallbacks.h
+END
+Lexer.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/Lexer.h
+END
+TokenLexer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/TokenLexer.h
+END
+Token.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/Token.h
+END
+ScratchBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/ScratchBuffer.h
+END
+PreprocessingRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/PreprocessingRecord.h
+END
+MultipleIncludeOpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/MultipleIncludeOpt.h
+END
+ModuleMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/ModuleMap.h
+END
+HeaderMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/HeaderMap.h
+END
+PTHManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/PTHManager.h
+END
+Preprocessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/Preprocessor.h
+END
+PreprocessorLexer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/PreprocessorLexer.h
+END
+TokenConcatenation.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/TokenConcatenation.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/include/clang/Lex/Makefile
+END

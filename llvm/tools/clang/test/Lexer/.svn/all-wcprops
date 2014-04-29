@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer
+END
+char-escapes.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/char-escapes.c
+END
+utf-16.c.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/utf-16.c.txt
+END
+comment-escape.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/comment-escape.c
+END
+has_feature_memory_sanitizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/has_feature_memory_sanitizer.cpp
+END
+newline-eof.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/newline-eof.c
+END
+string-literal-errors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/string-literal-errors.cpp
+END
+unknown-char.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/unknown-char.c
+END
+pragma-message2.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/pragma-message2.c
+END
+numeric-literal-trash.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/numeric-literal-trash.c
+END
+builtin_redef.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/builtin_redef.c
+END
+eof-string.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/eof-string.c
+END
+digraph.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/digraph.c
+END
+newline-eof-c++11.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/newline-eof-c++11.cpp
+END
+conflict-marker.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/conflict-marker.c
+END
+gnu_keywords.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/gnu_keywords.c
+END
+bcpl-escaped-newline.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/bcpl-escaped-newline.c
+END
+cxx0x_raw_string_delim_length.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/cxx0x_raw_string_delim_length.cpp
+END
+preamble.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/preamble.c
+END
+has_feature_rtti.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/has_feature_rtti.cpp
+END
+has_feature_modules.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/has_feature_modules.m
+END
+rdar-8914293.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/rdar-8914293.c
+END
+pragma-message.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/pragma-message.c
+END
+cxx0x_raw_string_directives.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/cxx0x_raw_string_directives.cpp
+END
+utf8-char-literal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/utf8-char-literal.cpp
+END
+cxx1y_binary_literal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/cxx1y_binary_literal.cpp
+END
+dollar-idents.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/dollar-idents.c
+END
+has_feature_c1x.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/has_feature_c1x.c
+END
+has_extension.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/has_extension.c
+END
+utf8-invalid.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/utf8-invalid.c
+END
+multiple-include.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/multiple-include.c
+END
+ms-extensions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/ms-extensions.cpp
+END
+unicode-strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/unicode-strings.c
+END
+utf-16.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/utf-16.c
+END
+eof-char.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/eof-char.c
+END
+string-literal-encoding.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/string-literal-encoding.c
+END
+token-concat.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/token-concat.c
+END
+has_feature_exceptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/has_feature_exceptions.cpp
+END
+pragma-region.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/pragma-region.c
+END
+pragma-mark.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/pragma-mark.c
+END
+11-27-2007-FloatLiterals.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/11-27-2007-FloatLiterals.c
+END
+cxx0x_keyword_as_cxx98.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/cxx0x_keyword_as_cxx98.cpp
+END
+has_feature_thread_sanitizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/has_feature_thread_sanitizer.cpp
+END
+ms-extensions.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/ms-extensions.c
+END
+constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/constants.c
+END
+counter.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/counter.c
+END
+has_feature_cxx0x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/has_feature_cxx0x.cpp
+END
+escape_newline.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/escape_newline.c
+END
+char-literal-encoding-error.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/char-literal-encoding-error.c
+END
+block_cmt_end.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/block_cmt_end.c
+END
+pragma-operators.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/pragma-operators.cpp
+END
+token-concat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/token-concat.cpp
+END
+unicode.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/unicode.c
+END
+cxx0x_raw_string_unterminated.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/cxx0x_raw_string_unterminated.cpp
+END
+clang-keywords.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/clang-keywords.cpp
+END
+has_extension_cxx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/has_extension_cxx.cpp
+END
+string_concat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/string_concat.cpp
+END
+badstring_in_if0.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/badstring_in_if0.c
+END
+wchar.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/wchar.c
+END
+wchar-signedness.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/wchar-signedness.c
+END
+char-literal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/char-literal.cpp
+END
+msdos-cpm-eof.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/msdos-cpm-eof.c
+END
+hexfloat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/hexfloat.cpp
+END
+has_feature_type_traits.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/has_feature_type_traits.cpp
+END
+cxx0x_keyword.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/cxx0x_keyword.cpp
+END
+newline-eof-c++98-compat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/newline-eof-c++98-compat.cpp
+END
+has_feature_objc_arc.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/has_feature_objc_arc.m
+END
+has_feature_address_sanitizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/has_feature_address_sanitizer.cpp
+END
+eof-file.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/eof-file.c
+END
+c90.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/c90.c
+END
+rdr-6096838-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/rdr-6096838-2.c
+END
+rdr-6096838.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/rdr-6096838.c
+END
+long-long.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Lexer/long-long.cpp
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL
+END
+vector_logops.cl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/vector_logops.cl
+END
+spir32_target.cl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/spir32_target.cl
+END
+ext-vector-shuffle.cl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/ext-vector-shuffle.cl
+END
+local.cl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/local.cl
+END
+addr-space-struct-arg.cl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/addr-space-struct-arg.cl
+END
+spir64_target.cl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/spir64_target.cl
+END
+kernel-metadata.cl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/kernel-metadata.cl
+END
+shifts.cl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/shifts.cl
+END
+single-precision-constant.cl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/single-precision-constant.cl
+END
+address-spaces.cl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/address-spaces.cl
+END
+vector_literals_nested.cl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/vector_literals_nested.cl
+END
+event_t.cl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/event_t.cl
+END
+kernel-attributes.cl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/kernel-attributes.cl
+END
+opencl_types.cl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/opencl_types.cl
+END
+ptx-calls.cl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/ptx-calls.cl
+END
+logical-ops.cl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/logical-ops.cl
+END
+half.cl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/half.cl
+END
+ptx-kernels.cl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/ptx-kernels.cl
+END
+fpmath.cl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/fpmath.cl
+END
+2011-04-15-vec-init-from-vec.cl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/2011-04-15-vec-init-from-vec.cl
+END
+vectorLoadStore.cl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/vectorLoadStore.cl
+END
+vector_literals_valid.cl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/vector_literals_valid.cl
+END
+kernel-arg-info.cl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CodeGenOpenCL/kernel-arg-info.cl
+END
