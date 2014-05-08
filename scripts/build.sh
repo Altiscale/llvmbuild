@@ -63,16 +63,24 @@ echo "QA_RPATHS=$QA_RPATHS"
 
 # Override _libdir to /usr/lib, otherwise, it will install under /usr/lib64/
 # _prefix should point to /usr/local
-rpmbuild -vv -ba $WORKSPACE/rpmbuild/SPECS/llvm.spec \
+echo "ok - applying version number $LLVM_VERSION and release number $BUILD_TIME"
+sed -i "s/LLVM_VERSION/$LLVM_VERSION/g" "$WORKSPACE/rpmbuild/SPECS/llvm.spec"
+sed -i "s/BUILD_TIME/$BUILD_TIME/g" "$WORKSPACE/rpmbuild/SPECS/llvm.spec"
+rpmbuild -vvv -bs $WORKSPACE/rpmbuild/SPECS/llvm.spec \
   --define "_topdir $WORKSPACE/rpmbuild" \
   --define "_libdir /usr/local/lib" \
   --define "_prefix /usr/local" \
   --buildroot $WORKSPACE/rpmbuild/BUILDROOT/
 
 if [ $? -ne "0" ] ; then
-  echo "fail - RPM build failed"
+  echo "fail - rpmbuild for SRPM build failed"
   exit -9
 fi
+
+mock -vvv --resultdir=$WORKSPACE/rpmbuild/RPMS/ \
+          --rebuild $WORKSPACE/rpmbuild/SRPMS/llvm-$LLVM_VERSION-$BUILD_TIME.el6.src.rpm \
+          --define "_libdir /usr/local/lib" \ 
+          --define "_prefix /usr/local"
   
 echo "ok - build Completed successfully!"
 

@@ -1,6 +1,6 @@
-%define major_ver %(echo ${LLVM_VERSION})
+%define major_ver 3.3
 %define service_name llvm
-%define build_release %(echo ${BUILD_TIME})
+%define build_release 20140506
 
 Name: %{service_name}
 Version: %{major_ver}
@@ -28,10 +28,10 @@ functionality.
 %prep
 echo "ok - copying files from %{_sourcedir} to folder  %{_builddir}/%{service_name}"
 echo "ok - if '%setup' is specified, rpmbuild will extract the source for you, otherwise, manual copy is mandatory"
-if [ -d %{_builddir}/%{service_name} ] ; then
-  echo "ok - deleting previous copy of LLVM in %{_builddir}/%{service_name}"
-  rm -rf %{_builddir}/%{service_name}
-fi
+#if [ -d %{_builddir}/%{service_name} ] ; then
+#  echo "ok - deleting previous copy of LLVM in %{_builddir}/%{service_name}"
+#  rm -rf %{_builddir}/%{service_name}
+#fi
 
 %setup -q -n %{service_name}
 
