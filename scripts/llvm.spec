@@ -1,6 +1,6 @@
-%define major_ver 3.3
+%define major_ver LLVM_VERSION
 %define service_name llvm
-%define build_release 20140506
+%define build_release BUILD_TIME
 
 Name: %{service_name}
 Version: %{major_ver}
