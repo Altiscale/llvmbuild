@@ -74,13 +74,15 @@ rpmbuild -vvv -bs $WORKSPACE/rpmbuild/SPECS/llvm.spec \
 
 if [ $? -ne "0" ] ; then
   echo "fail - rpmbuild for SRPM build failed"
-  exit -9
+  exit -8
 fi
 
-mock -vvv --resultdir=$WORKSPACE/rpmbuild/RPMS/ \
-          --rebuild $WORKSPACE/rpmbuild/SRPMS/llvm-$LLVM_VERSION-$BUILD_TIME.el6.src.rpm \
-          --define "_libdir /usr/local/lib" \ 
-          --define "_prefix /usr/local"
+mock -vvv --resultdir=$WORKSPACE/rpmbuild/RPMS/ --rebuild $WORKSPACE/rpmbuild/SRPMS/llvm-$LLVM_VERSION-$BUILD_TIME.el6.src.rpm --define "_libdir /usr/local/lib" --define "_prefix /usr/local"
+
+if [ $? -ne "0" ] ; then
+  echo "fail - mock RPM build failed"
+  exit -9
+fi
   
 echo "ok - build Completed successfully!"
 
