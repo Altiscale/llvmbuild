@@ -4,7 +4,9 @@ curr_dir=`dirname $0`
 curr_dir=`cd $curr_dir; pwd`
 
 llvm_spec="$curr_dir/llvm.spec"
-
+mock_cfg="$curr_dir/altiscale-llvm-centos-6-x86_64.cfg"
+mock_cfg_name=$(basename "$mock_cfg")
+mock_cfg_runtime=`echo $mock_cfg_name | sed "s/.cfg/.runtime.cfg/"`
 
 if [ -f "$curr_dir/setup_env.sh" ]; then
   source "$curr_dir/setup_env.sh"
@@ -77,13 +79,29 @@ if [ $? -ne "0" ] ; then
   exit -8
 fi
 
-mock -vvv --resultdir=$WORKSPACE/rpmbuild/RPMS/ --rebuild $WORKSPACE/rpmbuild/SRPMS/llvm-$LLVM_VERSION-$BUILD_TIME.el6.src.rpm --define "_libdir /usr/local/lib" --define "_prefix /usr/local"
+echo "ok - applying $WORKSPACE for the new BASEDIR for mock, pattern delimiter here should be :"
+# the path includeds /, so we need a diff pattern delimiter
+
+mkdir -p "$WORKSPACE/var/lib/mock"
+chmod 2755 "$WORKSPACE/var/lib/mock"
+mkdir -p "$WORKSPACE/var/cache/mock"
+chmod 2755 "$WORKSPACE/var/cache/mock"
+sed "s:BASEDIR:$WORKSPACE:g" "$mock_cfg" > "$curr_dir/$mock_cfg_runtime"
+sed -i "s:LLVM_VERSION:$LLVM_VERSION:g" "$curr_dir/$mock_cfg_runtime"
+echo "ok - applying mock config $curr_dir/$mock_cfg_runtime"
+cat "$curr_dir/$mock_cfg_runtime"
+mock -vvv --configdir=$curr_dir -r altiscale-llvm-centos-6-x86_64.runtime --resultdir=$WORKSPACE/rpmbuild/RPMS/ --rebuild $WORKSPACE/rpmbuild/SRPMS/llvm-$LLVM_VERSION-$BUILD_TIME.el6.src.rpm --define "_libdir /usr/local/lib" --define "_prefix /usr/local"
 
 if [ $? -ne "0" ] ; then
   echo "fail - mock RPM build failed"
+  mock --clean
+  mock --scrub=all
   exit -9
 fi
-  
+
+mock --clean
+mock --scrub=all
+
 echo "ok - build Completed successfully!"
 
 exit 0
