@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.decls/temp.variadic
+END
+fixed-expansion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.decls/temp.variadic/fixed-expansion.cpp
+END
+partial-ordering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.decls/temp.variadic/partial-ordering.cpp
+END
+example-bind.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.decls/temp.variadic/example-bind.cpp
+END
+injected-class-name.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.decls/temp.variadic/injected-class-name.cpp
+END
+parameter-matching.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.decls/temp.variadic/parameter-matching.cpp
+END
+multi-level-substitution.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.decls/temp.variadic/multi-level-substitution.cpp
+END
+p5.mm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.decls/temp.variadic/p5.mm
+END
+ext-blocks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.decls/temp.variadic/ext-blocks.cpp
+END
+example-function.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.decls/temp.variadic/example-function.cpp
+END
+deduction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.decls/temp.variadic/deduction.cpp
+END
+metafunctions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.decls/temp.variadic/metafunctions.cpp
+END
+p1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.decls/temp.variadic/p1.cpp
+END
+p2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.decls/temp.variadic/p2.cpp
+END
+example-tuple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.decls/temp.variadic/example-tuple.cpp
+END
+p4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.decls/temp.variadic/p4.cpp
+END
+p5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.decls/temp.variadic/p5.cpp
+END

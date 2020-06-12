@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend
+END
+LayoutOverrideSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/LayoutOverrideSource.cpp
+END
+DependencyGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/DependencyGraph.cpp
+END
+InitHeaderSearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/InitHeaderSearch.cpp
+END
+SerializedDiagnosticPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/SerializedDiagnosticPrinter.cpp
+END
+InitPreprocessor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/InitPreprocessor.cpp
+END
+DiagnosticRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/DiagnosticRenderer.cpp
+END
+ASTConsumers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/ASTConsumers.cpp
+END
+ASTUnit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/ASTUnit.cpp
+END
+Warnings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/Warnings.cpp
+END
+FrontendOptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/FrontendOptions.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/CMakeLists.txt
+END
+MultiplexConsumer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/MultiplexConsumer.cpp
+END
+CompilerInstance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/CompilerInstance.cpp
+END
+FrontendActions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/FrontendActions.cpp
+END
+ChainedIncludesSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/ChainedIncludesSource.cpp
+END
+CompilerInvocation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/CompilerInvocation.cpp
+END
+ASTMerge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/ASTMerge.cpp
+END
+ChainedDiagnosticConsumer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/ChainedDiagnosticConsumer.cpp
+END
+FrontendAction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/FrontendAction.cpp
+END
+DependencyFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/DependencyFile.cpp
+END
+TextDiagnosticBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/TextDiagnosticBuffer.cpp
+END
+VerifyDiagnosticConsumer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/VerifyDiagnosticConsumer.cpp
+END
+LangStandards.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/LangStandards.cpp
+END
+HeaderIncludeGen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/HeaderIncludeGen.cpp
+END
+CacheTokens.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/CacheTokens.cpp
+END
+CreateInvocationFromCommandLine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/CreateInvocationFromCommandLine.cpp
+END
+TextDiagnostic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/TextDiagnostic.cpp
+END
+LogDiagnosticPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/LogDiagnosticPrinter.cpp
+END
+PrintPreprocessedOutput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/PrintPreprocessedOutput.cpp
+END
+TextDiagnosticPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Frontend/TextDiagnosticPrinter.cpp
+END

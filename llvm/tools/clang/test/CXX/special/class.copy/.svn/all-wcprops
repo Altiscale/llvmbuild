@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/special/class.copy
+END
+p15-inclass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/special/class.copy/p15-inclass.cpp
+END
+p11.0x.copy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/special/class.copy/p11.0x.copy.cpp
+END
+p20.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/special/class.copy/p20.cpp
+END
+p23-cxx11.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/special/class.copy/p23-cxx11.cpp
+END
+p18-cxx11.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/special/class.copy/p18-cxx11.cpp
+END
+implicit-move-def.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/special/class.copy/implicit-move-def.cpp
+END
+p28-cxx11.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/special/class.copy/p28-cxx11.cpp
+END
+implicit-move.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/special/class.copy/implicit-move.cpp
+END
+p3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/special/class.copy/p3.cpp
+END
+p12-0x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/special/class.copy/p12-0x.cpp
+END
+p13-0x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/special/class.copy/p13-0x.cpp
+END
+p9.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/special/class.copy/p9.cpp
+END
+p8-cxx11.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/special/class.copy/p8-cxx11.cpp
+END
+p33-0x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/special/class.copy/p33-0x.cpp
+END
+p15-0x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/special/class.copy/p15-0x.cpp
+END
+p25-0x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/special/class.copy/p25-0x.cpp
+END
+p11.0x.move.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/special/class.copy/p11.0x.move.cpp
+END

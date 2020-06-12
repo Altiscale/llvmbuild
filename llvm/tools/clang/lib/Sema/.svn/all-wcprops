@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema
+END
+SemaDeclCXX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaDeclCXX.cpp
+END
+TreeTransform.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/TreeTransform.h
+END
+SemaCast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaCast.cpp
+END
+SemaOpenMP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaOpenMP.cpp
+END
+SemaExprCXX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaExprCXX.cpp
+END
+SemaDeclAttr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaDeclAttr.cpp
+END
+TargetAttributesSema.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/TargetAttributesSema.h
+END
+SemaInit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaInit.cpp
+END
+SemaCodeComplete.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaCodeComplete.cpp
+END
+Scope.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/Scope.cpp
+END
+SemaDeclObjC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaDeclObjC.cpp
+END
+SemaDecl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaDecl.cpp
+END
+MultiplexExternalSemaSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/MultiplexExternalSemaSource.cpp
+END
+SemaTemplateInstantiateDecl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaTemplateInstantiateDecl.cpp
+END
+SemaTemplateDeduction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaTemplateDeduction.cpp
+END
+SemaOverload.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaOverload.cpp
+END
+SemaTemplate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaTemplate.cpp
+END
+DeclSpec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/DeclSpec.cpp
+END
+SemaLambda.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaLambda.cpp
+END
+SemaType.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaType.cpp
+END
+SemaObjCProperty.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaObjCProperty.cpp
+END
+SemaStmtAttr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaStmtAttr.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/Makefile
+END
+SemaPseudoObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaPseudoObject.cpp
+END
+SemaStmt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaStmt.cpp
+END
+SemaStmtAsm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaStmtAsm.cpp
+END
+AttributeList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/AttributeList.cpp
+END
+SemaConsumer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaConsumer.cpp
+END
+TargetAttributesSema.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/TargetAttributesSema.cpp
+END
+JumpDiagnostics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/JumpDiagnostics.cpp
+END
+IdentifierResolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/IdentifierResolver.cpp
+END
+SemaAccess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaAccess.cpp
+END
+SemaFixItUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaFixItUtils.cpp
+END
+DelayedDiagnostic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/DelayedDiagnostic.cpp
+END
+SemaExprMember.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaExprMember.cpp
+END
+SemaCXXScopeSpec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaCXXScopeSpec.cpp
+END
+SemaExceptionSpec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaExceptionSpec.cpp
+END
+CodeCompleteConsumer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/CodeCompleteConsumer.cpp
+END
+SemaLookup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaLookup.cpp
+END
+SemaAttr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaAttr.cpp
+END
+SemaChecking.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaChecking.cpp
+END
+SemaExprObjC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaExprObjC.cpp
+END
+SemaExpr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaExpr.cpp
+END
+SemaTemplateVariadic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaTemplateVariadic.cpp
+END
+SemaTemplateInstantiate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/SemaTemplateInstantiate.cpp
+END
+ScopeInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/ScopeInfo.cpp
+END
+Sema.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/Sema.cpp
+END
+AnalysisBasedWarnings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/AnalysisBasedWarnings.cpp
+END
+TypeLocBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/lib/Sema/TypeLocBuilder.h
+END

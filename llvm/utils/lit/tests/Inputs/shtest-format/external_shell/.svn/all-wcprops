@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/utils/lit/tests/Inputs/shtest-format/external_shell
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/utils/lit/tests/Inputs/shtest-format/external_shell/lit.local.cfg
+END
+pass.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/utils/lit/tests/Inputs/shtest-format/external_shell/pass.txt
+END
+fail.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/utils/lit/tests/Inputs/shtest-format/external_shell/fail.txt
+END

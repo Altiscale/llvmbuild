@@ -1,0 +1,153 @@
+10
+
+dir
+205696
+http://llvm.org/svn/llvm-project/cfe/tags/RELEASE_33/final/lib
+http://llvm.org/svn/llvm-project
+
+
+
+2013-05-30T18:01:30.494980Z
+182944
+void
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+Frontend
+dir
+
+Rewrite
+dir
+
+Basic
+dir
+
+Analysis
+dir
+
+Edit
+dir
+
+Sema
+dir
+
+AST
+dir
+
+Format
+dir
+
+Lex
+dir
+
+Driver
+dir
+
+StaticAnalyzer
+dir
+
+CodeGen
+dir
+
+Parse
+dir
+
+Headers
+dir
+
+Tooling
+dir
+
+FrontendTool
+dir
+
+Serialization
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2014-04-07T04:06:33.753928Z
+c50babb9bcf911a1dfd7386f5678c9f4
+2012-12-03T18:12:45.372480Z
+169137
+djasper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+501
+
+Makefile
+file
+
+
+
+
+2014-04-07T04:06:33.753928Z
+754ea9aedf4cc329d1195ff13b3588cc
+2012-12-13T16:09:42.095508Z
+170135
+rdivacky
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+833
+
+ASTMatchers
+dir
+
+ARCMigrate
+dir
+

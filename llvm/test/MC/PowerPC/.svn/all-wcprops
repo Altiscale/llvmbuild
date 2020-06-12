@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/PowerPC
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/PowerPC/lit.local.cfg
+END
+ppc64-encoding-ext.s
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/PowerPC/ppc64-encoding-ext.s
+END
+ppc64-initial-cfa.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/PowerPC/ppc64-initial-cfa.ll
+END
+ppc64-encoding.s
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/PowerPC/ppc64-encoding.s
+END
+ppc64-encoding-fp.s
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/PowerPC/ppc64-encoding-fp.s
+END
+ppc64-relocs-01.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/PowerPC/ppc64-relocs-01.ll
+END
+ppc64-tls-relocs-01.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/PowerPC/ppc64-tls-relocs-01.ll
+END
+ppc64-operands.s
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/PowerPC/ppc64-operands.s
+END
+ppc64-errors.s
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/PowerPC/ppc64-errors.s
+END
+ppc64-encoding-vmx.s
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/PowerPC/ppc64-encoding-vmx.s
+END
+ppc64-fixups.s
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/PowerPC/ppc64-fixups.s
+END
+ppc64-encoding-bookII.s
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/PowerPC/ppc64-encoding-bookII.s
+END

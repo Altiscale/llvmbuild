@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 38
+configure.out
+cscope.files
+cscope.out
+
+K 13
+svn:mergeinfo
+V 201
+/cfe/branches/type-system-rewrite:134693-134817
+/cfe/trunk:181283,181286,181299,181342,181368,181465,181487,181728,181750,181909,182072,182645
+/cfe/trunk/test:170344
+/cfe/trunk/test/SemaTemplate:126920
+END

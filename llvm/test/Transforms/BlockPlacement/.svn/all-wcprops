@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/BlockPlacement
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/BlockPlacement/lit.local.cfg
+END
+basictest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/BlockPlacement/basictest.ll
+END

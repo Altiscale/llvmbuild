@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Driver/Inputs/basic_linux_tree/usr/x86_64-unknown-linux/lib
+END
+.keep
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Driver/Inputs/basic_linux_tree/usr/x86_64-unknown-linux/lib/.keep
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183505/compiler-rt/tags/RELEASE_33/final/lib/ubsan/lit_tests
+END
+lit.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183505/compiler-rt/tags/RELEASE_33/final/lib/ubsan/lit_tests/lit.cfg
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183505/compiler-rt/tags/RELEASE_33/final/lib/ubsan/lit_tests/CMakeLists.txt
+END
+lit.site.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183505/compiler-rt/tags/RELEASE_33/final/lib/ubsan/lit_tests/lit.site.cfg.in
+END

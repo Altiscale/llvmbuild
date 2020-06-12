@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Driver/Inputs/ubuntu_12.04_LTS_multiarch_tree/usr/lib/arm-linux-gnueabihf
+END
+crtn.o
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Driver/Inputs/ubuntu_12.04_LTS_multiarch_tree/usr/lib/arm-linux-gnueabihf/crtn.o
+END
+crt1.o
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Driver/Inputs/ubuntu_12.04_LTS_multiarch_tree/usr/lib/arm-linux-gnueabihf/crt1.o
+END
+crti.o
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Driver/Inputs/ubuntu_12.04_LTS_multiarch_tree/usr/lib/arm-linux-gnueabihf/crti.o
+END

@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 287
+/cfe/branches/type-system-rewrite/test/Analysis/alloc-match-dealloc.mm:134693-134817
+/cfe/trunk/test/Analysis/MismatchedDeallocator-checker-test.mm:181368
+/cfe/trunk/test/SemaTemplate/test/Analysis/alloc-match-dealloc.mm:126920
+/cfe/trunk/test/test/Analysis/alloc-match-dealloc.mm:170344
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Driver/Inputs/basic_freebsd64_tree/usr/lib
+END
+.keep
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Driver/Inputs/basic_freebsd64_tree/usr/lib/.keep
+END
+crt1.o
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Driver/Inputs/basic_freebsd64_tree/usr/lib/crt1.o
+END

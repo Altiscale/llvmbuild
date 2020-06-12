@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/SimplifyLibCalls
+END
+2009-05-30-memcmp-byte.ll
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/SimplifyLibCalls/2009-05-30-memcmp-byte.ll
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/SimplifyLibCalls/lit.local.cfg
+END
+MemCpy.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/SimplifyLibCalls/MemCpy.ll
+END
+2009-07-28-Exit.ll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/SimplifyLibCalls/2009-07-28-Exit.ll
+END
+2007-04-06-strchr-miscompile.ll
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/SimplifyLibCalls/2007-04-06-strchr-miscompile.ll
+END
+2008-05-19-memcmp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/SimplifyLibCalls/2008-05-19-memcmp.ll
+END
+2009-07-29-Exit2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/SimplifyLibCalls/2009-07-29-Exit2.ll
+END
+win-math.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/SimplifyLibCalls/win-math.ll
+END
+float-shrink-compare.ll
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/SimplifyLibCalls/float-shrink-compare.ll
+END
+PR7357.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/SimplifyLibCalls/PR7357.ll
+END
+2005-05-20-sprintf-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/SimplifyLibCalls/2005-05-20-sprintf-crash.ll
+END

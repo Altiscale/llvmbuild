@@ -1,0 +1,857 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter
+END
+rewrite-foreach-2.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-foreach-2.m
+END
+rewrite-nested-blocks.mm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-nested-blocks.mm
+END
+rewrite-foreach-6.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-foreach-6.m
+END
+rewrite-anonymous-union.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-anonymous-union.m
+END
+line-generation-test.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/line-generation-test.m
+END
+rewrite-modern-captured-nested-bvar.mm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-captured-nested-bvar.mm
+END
+finally.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/finally.m
+END
+unnamed-bf-modern-write.mm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/unnamed-bf-modern-write.mm
+END
+blockcast3.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/blockcast3.mm
+END
+rewrite-local-static-id.mm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-local-static-id.mm
+END
+objc-modern-StretAPI.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-modern-StretAPI.mm
+END
+rewrite-modern-block.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-block.mm
+END
+undecl-objc-h.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/undecl-objc-h.m
+END
+rewrite-modern-super.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-super.mm
+END
+protocol-rewrite-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/protocol-rewrite-1.m
+END
+rewrite-modern-ivar-access.mm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-ivar-access.mm
+END
+rewrite-nested-property-in-blocks.mm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-nested-property-in-blocks.mm
+END
+rewrite-modern-container-literal.mm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-container-literal.mm
+END
+rewrite-block-property.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-block-property.m
+END
+rewrite-no-nextline.mm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-no-nextline.mm
+END
+blockstruct.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/blockstruct.m
+END
+objc-modern-boxing.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-modern-boxing.mm
+END
+rewrite-modern-qualified-type.mm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-qualified-type.mm
+END
+rewrite-vararg.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-vararg.m
+END
+method-encoding-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/method-encoding-1.m
+END
+property-dot-syntax.mm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/property-dot-syntax.mm
+END
+objc-bool-literal-check-modern.mm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-bool-literal-check-modern.mm
+END
+rewrite-static-block.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-static-block.mm
+END
+rewrite-try-catch.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-try-catch.m
+END
+rewrite-elaborated-type.mm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-elaborated-type.mm
+END
+objc-modern-class-init.mm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-modern-class-init.mm
+END
+objc-modern-getclass-proto.mm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-modern-getclass-proto.mm
+END
+undeclared-method-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/undeclared-method-1.m
+END
+rewrite-modern-class.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-class.mm
+END
+ivar-encoding-2.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/ivar-encoding-2.m
+END
+rewrite-foreach-3.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-foreach-3.m
+END
+rewrite-forward-class.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-forward-class.m
+END
+rewrite-modern-array-literal.mm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-array-literal.mm
+END
+rewrite-user-defined-accessors.mm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-user-defined-accessors.mm
+END
+rewrite-foreach-7.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-foreach-7.m
+END
+rewrite-category-property.mm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-category-property.mm
+END
+rewrite-protocol-type-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-protocol-type-1.m
+END
+objc-bool-literal-modern-1.mm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-bool-literal-modern-1.mm
+END
+objc-bool-literal-modern.mm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-bool-literal-modern.mm
+END
+rewrite-modern-ivars-1.mm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-ivars-1.mm
+END
+rewrite-unique-block-api.mm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-unique-block-api.mm
+END
+rewrite-cast-ivar-modern-access.mm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-cast-ivar-modern-access.mm
+END
+protocol-rewrite-2.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/protocol-rewrite-2.m
+END
+rewrite-block-literal.mm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-block-literal.mm
+END
+no-integrated-preprocessing.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/no-integrated-preprocessing.m
+END
+rewrite-constructor-init.mm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-constructor-init.mm
+END
+rewrite-modern-catch.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-catch.m
+END
+objc-string-concat-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-string-concat-1.m
+END
+weak_byref_objects.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/weak_byref_objects.m
+END
+objc-synchronized-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-synchronized-1.m
+END
+rewrite-trivial-constructor.mm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-trivial-constructor.mm
+END
+rewrite-qualified-id.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-qualified-id.mm
+END
+rewrite-block-ivar-call.mm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-block-ivar-call.mm
+END
+rewrite-modern-struct-ivar-1.mm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-struct-ivar-1.mm
+END
+instancetype-test.mm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/instancetype-test.mm
+END
+objc-modern-property-bitfield.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-modern-property-bitfield.m
+END
+rewrite-typeof.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-typeof.mm
+END
+rewrite-api-bug.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-api-bug.m
+END
+no-integrated-preprocessing-64bit.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/no-integrated-preprocessing-64bit.m
+END
+rewrite-local-externs-in-block.mm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-local-externs-in-block.mm
+END
+inner-block-helper-funcs.mm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/inner-block-helper-funcs.mm
+END
+rewrite-modern-default-property-synthesis.mm
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-default-property-synthesis.mm
+END
+objc-modern-ivar-receiver-1.mm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-modern-ivar-receiver-1.mm
+END
+objc-modern-metadata-visibility.mm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-modern-metadata-visibility.mm
+END
+rewrite-protocol-property.mm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-protocol-property.mm
+END
+rewrite-extern-c.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-extern-c.mm
+END
+rewrite-implementation.mm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-implementation.mm
+END
+rewrite-captured-nested-bvar.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-captured-nested-bvar.c
+END
+rewrite-foreach-4.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-foreach-4.m
+END
+rewrite-nested-blocks-1.mm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-nested-blocks-1.mm
+END
+rewrite-modern-try-catch-finally.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-try-catch-finally.m
+END
+properties.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/properties.m
+END
+rewrite-protocol-qualified.mm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-protocol-qualified.mm
+END
+rewrite-modern-nested-ivar.mm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-nested-ivar.mm
+END
+rewrite-rewritten-initializer.mm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-rewritten-initializer.mm
+END
+crash.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/crash.m
+END
+rewrite-byref-in-nested-blocks.mm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-byref-in-nested-blocks.mm
+END
+rewrite-modern-ivars.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-ivars.mm
+END
+static-type-protocol-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/static-type-protocol-1.m
+END
+missing-dllimport.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/missing-dllimport.c
+END
+rewrite-block-pointer.mm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-block-pointer.mm
+END
+rewrite-modern-atautoreleasepool.mm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-atautoreleasepool.mm
+END
+objc-modern-container-subscript.mm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-modern-container-subscript.mm
+END
+rewrite-eh.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-eh.m
+END
+rewrite-block-literal-1.mm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-block-literal-1.mm
+END
+rewrite-modern-block-consts.mm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-block-consts.mm
+END
+rewrite-line-directive.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-line-directive.m
+END
+dllimport-typedef.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/dllimport-typedef.c
+END
+metadata-test-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/metadata-test-1.m
+END
+rewrite-message-expr.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-message-expr.mm
+END
+rewrite-modern-ivars-2.mm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-ivars-2.mm
+END
+modern-write-bf-abi.mm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/modern-write-bf-abi.mm
+END
+objc-encoding-bug-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-encoding-bug-1.m
+END
+rewrite-byref-vars.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-byref-vars.mm
+END
+undef-field-reference-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/undef-field-reference-1.m
+END
+rewrite-foreach-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-foreach-1.m
+END
+va-method.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/va-method.m
+END
+rewrite-modern-typeof.mm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-typeof.mm
+END
+rewrite-function-decl.mm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-function-decl.mm
+END
+rewrite-foreach-5.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-foreach-5.m
+END
+rewrite-nest.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-nest.m
+END
+rewrite-block-consts.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-block-consts.mm
+END
+rewrite-cast-to-bool.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-cast-to-bool.mm
+END
+objc-modern-class-init-hooks.mm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-modern-class-init-hooks.mm
+END
+rewrite-modern-ivar-use.mm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-ivar-use.mm
+END
+rewrite-ivar-use.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-ivar-use.m
+END
+rewrite-modern-private-ivars.mm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-private-ivars.mm
+END
+objc-modern-linkage-spec.mm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-modern-linkage-spec.mm
+END
+rewrite-super-message.mm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-super-message.mm
+END
+rewrite-modern-synchronized.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-synchronized.m
+END
+objc-modern-property-attributes.mm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-modern-property-attributes.mm
+END
+rewrite-cast-ivar-access.mm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-cast-ivar-access.mm
+END
+objc-super-test.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-super-test.m
+END
+rewrite-property-set-cfstring.mm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-property-set-cfstring.mm
+END
+rewrite-nested-blocks-2.mm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-nested-blocks-2.mm
+END
+rewrite-block-argument.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-block-argument.m
+END
+metadata-test-2.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/metadata-test-2.m
+END
+func-in-impl.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/func-in-impl.m
+END
+rewrite-foreach-in-block.mm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-foreach-in-block.mm
+END
+rewrite-modern-extern-c-func-decl.mm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-extern-c-func-decl.mm
+END
+rewrite-modern-struct-ivar.mm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-struct-ivar.mm
+END
+rewrite-forward-class.mm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-forward-class.mm
+END
+objc-modern-StretAPI-2.mm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-modern-StretAPI-2.mm
+END
+rewrite-modern-throw.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-throw.m
+END
+rewrite-property-attributes.mm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-property-attributes.mm
+END
+objc-modern-numeric-literal.mm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-modern-numeric-literal.mm
+END
+id-test-3.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/id-test-3.m
+END
+rewrite-modern-try-finally.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-try-finally.m
+END
+objc-modern-implicit-cast.mm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-modern-implicit-cast.mm
+END
+objc-ivar-receiver-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/objc-ivar-receiver-1.m
+END
+rewrite-modern-protocol-1.mm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-protocol-1.mm
+END
+rewrite-nested-ivar.mm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-nested-ivar.mm
+END
+rewrite-weak-attr.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-weak-attr.m
+END
+rewrite-foreach-protocol-id.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-foreach-protocol-id.m
+END
+rewrite-modern-protocol.mm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-protocol.mm
+END
+rewrite-modern-block-ivar-call.mm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/rewrite-modern-block-ivar-call.mm
+END
+ivar-encoding-1.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Rewriter/ivar-encoding-1.m
+END

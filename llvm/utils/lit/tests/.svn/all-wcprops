@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/utils/lit/tests
+END
+shell-parsing.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/utils/lit/tests/shell-parsing.py
+END
+lit.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/utils/lit/tests/lit.cfg
+END
+shtest-shell.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/utils/lit/tests/shtest-shell.py
+END
+shtest-format.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/utils/lit/tests/shtest-format.py
+END
+usage.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/utils/lit/tests/usage.py
+END
+progress-bar.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/utils/lit/tests/progress-bar.py
+END
+.coveragerc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/utils/lit/tests/.coveragerc
+END
+discovery.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/utils/lit/tests/discovery.py
+END
+unittest-adaptor.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/utils/lit/tests/unittest-adaptor.py
+END

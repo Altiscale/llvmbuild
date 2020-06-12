@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64/lit.local.cfg
+END
+gicv3-regs-diagnostics.s
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64/gicv3-regs-diagnostics.s
+END
+basic-a64-diagnostics.s
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64/basic-a64-diagnostics.s
+END
+elf-reloc-pcreladdressing.s
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64/elf-reloc-pcreladdressing.s
+END
+elf-globaladdress.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64/elf-globaladdress.ll
+END
+elf-reloc-tstb.s
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64/elf-reloc-tstb.s
+END
+elf-reloc-uncondbrimm.s
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64/elf-reloc-uncondbrimm.s
+END
+tls-relocs.s
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64/tls-relocs.s
+END
+trace-regs.s
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64/trace-regs.s
+END
+mapping-within-section.s
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64/mapping-within-section.s
+END
+elf-reloc-movw.s
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64/elf-reloc-movw.s
+END
+elf-reloc-ldrlit.s
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64/elf-reloc-ldrlit.s
+END
+trace-regs-diagnostics.s
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64/trace-regs-diagnostics.s
+END
+elf-objdump.s
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64/elf-objdump.s
+END
+elf-reloc-ldstunsimm.s
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64/elf-reloc-ldstunsimm.s
+END
+mapping-across-sections.s
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64/mapping-across-sections.s
+END
+gicv3-regs.s
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64/gicv3-regs.s
+END
+elf-reloc-addsubimm.s
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64/elf-reloc-addsubimm.s
+END
+basic-a64-instructions.s
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64/basic-a64-instructions.s
+END
+elf-reloc-condbr.s
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/MC/AArch64/elf-reloc-condbr.s
+END

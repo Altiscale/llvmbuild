@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.fct.spec/temp.deduct/temp.deduct.call
+END
+basic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.fct.spec/temp.deduct/temp.deduct.call/basic.cpp
+END
+p2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.fct.spec/temp.deduct/temp.deduct.call/p2.cpp
+END
+p3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.fct.spec/temp.deduct/temp.deduct.call/p3.cpp
+END
+p4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.fct.spec/temp.deduct/temp.deduct.call/p4.cpp
+END
+p1-0x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.fct.spec/temp.deduct/temp.deduct.call/p1-0x.cpp
+END
+p6.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.fct.spec/temp.deduct/temp.deduct.call/p6.cpp
+END
+p3-0x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/temp/temp.fct.spec/temp.deduct/temp.deduct.call/p3-0x.cpp
+END

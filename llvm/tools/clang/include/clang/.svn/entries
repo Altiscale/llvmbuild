@@ -1,0 +1,153 @@
+10
+
+dir
+205696
+http://llvm.org/svn/llvm-project/cfe/tags/RELEASE_33/final/include/clang
+http://llvm.org/svn/llvm-project
+
+
+
+2013-05-21T13:48:39.505055Z
+182381
+rnk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+Frontend
+dir
+
+Rewrite
+dir
+
+Basic
+dir
+
+Analysis
+dir
+
+Sema
+dir
+
+Edit
+dir
+
+AST
+dir
+
+Format
+dir
+
+Lex
+dir
+
+Driver
+dir
+
+StaticAnalyzer
+dir
+
+CodeGen
+dir
+
+Config
+dir
+
+Parse
+dir
+
+Tooling
+dir
+
+FrontendTool
+dir
+
+Serialization
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2014-04-07T04:06:51.236150Z
+9bf4bd12b5d2c923ae734cec1f0f72a0
+2012-01-20T22:37:06.608405Z
+148592
+delesley
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+172
+
+Makefile
+file
+
+
+
+
+2014-04-07T04:06:51.236150Z
+5bfef34dec6543df1fa7462e590efc27
+2012-02-01T22:23:31.518024Z
+149551
+nobled
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1488
+
+ASTMatchers
+dir
+
+ARCMigrate
+dir
+

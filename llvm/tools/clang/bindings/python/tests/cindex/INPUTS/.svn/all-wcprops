@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/INPUTS
+END
+header1.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/INPUTS/header1.h
+END
+header2.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/INPUTS/header2.h
+END
+parse_arguments.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/INPUTS/parse_arguments.c
+END
+compile_commands.json
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/INPUTS/compile_commands.json
+END
+header3.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/INPUTS/header3.h
+END
+hello.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/INPUTS/hello.cpp
+END
+include.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/INPUTS/include.cpp
+END

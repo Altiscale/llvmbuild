@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex
+END
+test_cursor.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/test_cursor.py
+END
+test_translation_unit.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/test_translation_unit.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/util.py
+END
+test_file.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/test_file.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/__init__.py
+END
+test_type.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/test_type.py
+END
+test_cursor_kind.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/test_cursor_kind.py
+END
+test_code_completion.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/test_code_completion.py
+END
+test_tokens.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/test_tokens.py
+END
+test_token_kind.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/test_token_kind.py
+END
+test_diagnostics.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/test_diagnostics.py
+END
+test_index.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/test_index.py
+END
+test_cdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/test_cdb.py
+END
+test_location.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/bindings/python/tests/cindex/test_location.py
+END

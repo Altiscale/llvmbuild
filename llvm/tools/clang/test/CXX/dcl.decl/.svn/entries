@@ -1,0 +1,77 @@
+10
+
+dir
+205696
+http://llvm.org/svn/llvm-project/cfe/tags/RELEASE_33/final/test/CXX/dcl.decl
+http://llvm.org/svn/llvm-project
+
+
+
+2013-05-06T21:39:12.124745Z
+181252
+rjmccall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+dcl.meaning
+dir
+
+dcl.name
+dir
+
+dcl.init
+dir
+
+dcl.ambig.res
+dir
+
+p4-0x.cpp
+file
+
+
+
+
+2014-04-07T04:06:42.455034Z
+84801b363e9e37e644bd8ea5095db3c0
+2012-10-19T12:44:48.167838Z
+166280
+andyg
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+155
+
+dcl.fct.def
+dir
+

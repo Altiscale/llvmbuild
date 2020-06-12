@@ -1,0 +1,35 @@
+K 10
+svn:ignore
+V 310
+Debug
+Release
+Release-Asserts
+mklib
+Makefile.config
+config.log
+config.status
+cvs.out
+autom4te.cache
+configure.out
+LLVM-*
+_distcheckdir
+llvm.spec
+svn-commit.*
+*.patch
+*.patch.raw
+cscope.*
+Debug+Coverage-Asserts
+Release+Coverage-Asserts
+Debug+Coverage
+Release+Coverage
+Debug+Checks
+Debug+Asserts
+Release+Asserts
+
+K 13
+svn:mergeinfo
+V 404
+/llvm/branches/Apple/Pertwee:110850,110961
+/llvm/branches/type-system-rewrite:133420-134817
+/llvm/trunk:155241,181286,181296,181313,181363,181366,181397,181423,181450,181524,181529,181540,181576-181580,181586,181600,181678,181706,181792,181800,181842,181864,181909,182072,182112-182113,182253-182254,182297-182298,182344,182364,182385,182387,182394,182485-182486,182585,182656,182989,183035,183060,183108
+END

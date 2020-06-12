@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/dcl.dcl/dcl.spec/dcl.type/dcl.type.simple
+END
+p4-cxx0x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/dcl.dcl/dcl.spec/dcl.type/dcl.type.simple/p4-cxx0x.cpp
+END
+p5-cxx0x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/CXX/dcl.dcl/dcl.spec/dcl.type/dcl.type.simple/p5-cxx0x.cpp
+END

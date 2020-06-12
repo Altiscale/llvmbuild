@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Analysis/CostModel
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Analysis/CostModel/lit.local.cfg
+END
+no_info.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Analysis/CostModel/no_info.ll
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Driver/Inputs/multilib_64bit_linux_tree/usr/lib/gcc/x86_64-unknown-linux/4.6.0
+END
+crtbegin.o
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Driver/Inputs/multilib_64bit_linux_tree/usr/lib/gcc/x86_64-unknown-linux/4.6.0/crtbegin.o
+END

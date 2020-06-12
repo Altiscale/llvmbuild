@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/TailDup
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/TailDup/lit.local.cfg
+END
+2008-06-11-AvoidDupLoopHeader.ll
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/183501/llvm/tags/RELEASE_33/final/test/Transforms/TailDup/2008-06-11-AvoidDupLoopHeader.ll
+END

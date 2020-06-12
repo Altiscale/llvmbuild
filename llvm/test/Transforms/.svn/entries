@@ -1,0 +1,202 @@
+10
+
+dir
+205696
+http://llvm.org/svn/llvm-project/llvm/tags/RELEASE_33/final/test/Transforms
+http://llvm.org/svn/llvm-project
+
+
+
+2013-06-04T04:35:28.444941Z
+183189
+void
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+BlockPlacement
+dir
+
+GlobalOpt
+dir
+
+LowerExpectIntrinsic
+dir
+
+LICM
+dir
+
+LowerAtomic
+dir
+
+LoopSimplify
+dir
+
+ConstProp
+dir
+
+ScalarRepl
+dir
+
+ArgumentPromotion
+dir
+
+LoopIdiom
+dir
+
+TailCallElim
+dir
+
+ADCE
+dir
+
+LoopDeletion
+dir
+
+LoopUnswitch
+dir
+
+IndVarSimplify
+dir
+
+ObjCARC
+dir
+
+LoopVectorize
+dir
+
+LoopUnroll
+dir
+
+ConstantMerge
+dir
+
+LowerSwitch
+dir
+
+SLPVectorizer
+dir
+
+MemCpyOpt
+dir
+
+BBVectorize
+dir
+
+LoopStrengthReduce
+dir
+
+IPConstantProp
+dir
+
+CodeGenPrepare
+dir
+
+Internalize
+dir
+
+CorrelatedValuePropagation
+dir
+
+LoopRotate
+dir
+
+SCCP
+dir
+
+InstSimplify
+dir
+
+PhaseOrdering
+dir
+
+GVN
+dir
+
+Reg2Mem
+dir
+
+Mem2Reg
+dir
+
+DeadArgElim
+dir
+
+MetaRenamer
+dir
+
+BranchFolding
+dir
+
+JumpThreading
+dir
+
+SimplifyLibCalls
+dir
+
+Reassociate
+dir
+
+TailDup
+dir
+
+DeadStoreElimination
+dir
+
+FunctionAttrs
+dir
+
+Sink
+dir
+
+SROA
+dir
+
+LowerInvoke
+dir
+
+LCSSA
+dir
+
+CodeExtractor
+dir
+
+PruneEH
+dir
+
+EarlyCSE
+dir
+
+GCOVProfiling
+dir
+
+StripSymbols
+dir
+
+InstCombine
+dir
+
+MergeFunc
+dir
+
+GlobalDCE
+dir
+
+SimplifyCFG
+dir
+
+Inline
+dir
+

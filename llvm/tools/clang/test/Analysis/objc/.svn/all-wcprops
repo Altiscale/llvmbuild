@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Analysis/objc
+END
+direct-ivar-assignment-in-annotated-functions.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/llvm-project/!svn/ver/183502/cfe/tags/RELEASE_33/final/test/Analysis/objc/direct-ivar-assignment-in-annotated-functions.m
+END
